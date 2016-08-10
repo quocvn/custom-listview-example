@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_92b722c614490665cc0e988a96238ad589072291.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_e9fe1145d2d793a5d7ec21358d4c324d7743d089.jar" />
+    </item>
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c994e1b639f8217602b0ed60c2a759357186f63f">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\instant-run_a43a90f7aeeed8866ff2818f4db57a18a628c00a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_2cc14e5f9d3a6e24343d7daabaeadb1603973418.jar" />
+    </item>
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_25e6bceba533038e9d4b5c2dce5b9a68907856d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9226706a83a43605add85fb055ff346909c11b2b">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a831bcb5b75e2edd7d2bae2377b6f1db27a36000.jar" />
+    </item>
+    <item
+        jar="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Quoc Nguyen\Documents\AndroidStudioProject\CustomListViewExample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ccc958bc3aeb9b6abc5c75b64b10fe2c20fe7972.jar" />
+    </item>
+
+</items>
