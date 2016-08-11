@@ -1,2 +1,3 @@
 # CustomListViewExample
-This is an example for custom listview in android using picasso library.
+### Demo:
+<img src="https://raw.githubusercontent.com/quocnguyenvan/CustomListViewExample/master/image/example.PNG">
